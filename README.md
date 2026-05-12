@@ -3,8 +3,6 @@
 # David Palma 👋
 ### Auxiliar de Desarrollo de Software | Python • JavaScript • Soporte TI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desarrollo+Web;Automatización+con+Python;APIs+REST+%26+Herramientas+TI;Aprendiendo+y+Construyendo+Todos+los+Días" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -65,18 +63,6 @@ Sistema inspirado en plataformas empresariales de soporte técnico interno.
 
 ### 📄 PDF Merge Tool
 Herramienta desarrollada en Python para unir múltiples archivos PDF en un único documento.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sairyo1&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairyo1&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
